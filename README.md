@@ -60,7 +60,7 @@ A autenticação é baseada em **JWT**. Após login, um token deve ser incluído
   "id": "task789",
   "title": "Implementar autenticação",
   "description": "Criar login com JWT",
-  "done": false,
+  "is_done": false,
   "listId": "list456"
 }
 ``` 
